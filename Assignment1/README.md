@@ -40,3 +40,44 @@ Remember to go into the folder that the app is in. Then to start the mobile app 
 npm install
 npx expo start
 ```
+## For Linux
+You’ll probably install npm at the same time but if not, remember to do that. When that is done, run the command:
+```
+npm install -g expo-cli
+```
+After that, go where the app is with cd, and if you don’t know how to do that run the commands:
+```
+cd ~
+cd <Location>
+```
+e.g.
+```
+cd \MobileApps\retireditems
+```
+Remember to go into the folder that the app is in, after that run the commands:
+```
+npm install
+npx expo start
+```
+And pray with all your might to your lord and saviour Richard “Milos” Stallman that it worked. That should be it on the computer side, there’ll be a last section for how to run the application on your phone.
+
+## For Mac OS
+Then open up your terminal which is located in “Utilities” where your applications are, or use Spotlight to find the terminal, after opening up the terminal, if everything is good and well, run the command:
+```
+npm install -g expo-cli
+```
+This should install the tool that’ll let you run the app. Then go to the place where you have the app in your terminal, by using the commands:
+```
+cd ~
+cd <path to the folder>
+```
+Remember to go into the folder where the app is, and then start the system that’ll let you run the mobile app, run the command:
+```
+npm install
+npx expo start
+```
+And that should be it on the computer side, there’ll be a last section for how to run the application on your phone.
+
+## To run the app on the phone
+To run our application, after you’ve run the command “npx expo start” successfully, you’ll have to download the app ”expo go”, and also connect to the same internet as your computer, in it I’ll have a QR code reader, scan your given QR code and presto, the app now runs (after an initial installation).
+
