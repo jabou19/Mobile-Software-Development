@@ -1,5 +1,5 @@
 # Mobile-Software-Development
-# a movie database App with React Native
+# A movie database App with React Native
 Assignment 1:
 Build a movie database App with React Native!
 
