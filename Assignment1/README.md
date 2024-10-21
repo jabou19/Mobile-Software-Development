@@ -7,8 +7,8 @@ You are tasked to build and design a movie database app, using the elements from
 
 Examples of technologies that you could use:
 
-FlatList
-SectionList
-ScrollList
+FlatList\n
+SectionList\n
+ScrollList\n
 React Navigation
 ContextProvider
