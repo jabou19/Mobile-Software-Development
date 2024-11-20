@@ -14,6 +14,11 @@ Examples of technologies that you could use:
 - **React Navigation**: Navigation library for handling routes and transitions in React Native apps.
 - **ContextProvider**: Provides a way to pass data through the component tree without having to pass props manually.
 
+
+
+
+
+
 ## For Windows
 Firstly install the project from GitHub and place it somewhere easily accessible from your driver, for example if your drive is named C:, then the location should be something like:
 ```
