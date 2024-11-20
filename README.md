@@ -1,2 +1,3 @@
 # Mobile-Software-Development
-React Native + React.js
+Assignment 1 is React Native
+Assignment 3 is React.js
