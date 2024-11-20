@@ -1,3 +1,15 @@
+# The description of assignment
+## Regarding the assignment 3:
+Create a simple todo app, that takes a list of todos, that can be removed or created. You create the app through ReactJS but other than that there is no technology requirements, you create the app the way you want to.
+code working in PS
+Handin
+A zip file including the source files and half a page of explaining how you created the app.
+## Todo-App
+Todo-App is a simple app which is how to add elements, so after adding elements which can be modified or deleted.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
